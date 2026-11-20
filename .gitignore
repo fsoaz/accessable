@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.local
+.eve/
+.workflow-data/
+test-results/
